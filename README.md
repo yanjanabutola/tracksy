@@ -110,10 +110,10 @@ Remaining balance
 
 # Contributions
 
-1. Lakshya – JavaScript & Backend
+1. Lakshya – HTML & Backend
 
 2. Arpit – CSS & Backend
 
 3. Yanjana – Database & AI chatbot and recommendation system
 
-4. Harshini – HTML & AI chatbot and recommendation system
+4. Harshini – Javascrpit & AI chatbot and recommendation system
